@@ -1,0 +1,17 @@
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.csprojAssemblyReference.cache
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfoInputs.cache
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.AssemblyInfo.cs
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.exe
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.deps.json
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.json
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.runtimeconfig.dev.json
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.dll
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\obj\Debug\netcoreapp3.1\Assignment_1.pdb
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Net_1_2048.txt
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Net_1_256.txt
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Net_2_2048.txt
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Net_2_256.txt
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Net_3_2048.txt
+C:\Users\thomas\Desktop\Assignment-sort-master\Assignment_1\bin\Debug\netcoreapp3.1\Net_3_256.txt
